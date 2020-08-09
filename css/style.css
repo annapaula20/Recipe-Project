@@ -1,0 +1,44 @@
+
+header{
+    background-color:white;
+    text-align: center;
+}
+
+body{
+    background-color:#DAF7F6;
+    font-size: 12px;
+    font-family: 'Open Sans'sans-serif;
+    color:#3B3B3B;
+    line-height: 16px;
+}
+/*******Headers*******/
+
+h1{
+    font-size: 48px;
+    color: #F16059;
+    font-family: 'Montserrat' sans-serif;
+    display:inline-block;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    margin: 0px; 
+}
+
+h2,
+h3{
+    color:#F16059;
+    font-family: 'Montserrat';
+    font-size: 24px;
+}
+
+header img{
+margin-right: 16px;
+}
+
+/********Main Section********/
+
+main{
+   width: 1000px;
+   margin: 0 auto;
+}
